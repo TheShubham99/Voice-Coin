@@ -30,5 +30,5 @@ https://flutter.dev/docs/get-started/install
 
 # Screen Shots -
 
-![Screen Shot1](/ScreenShots/1st.png)
+![Screen Shot1](/ScreenShots/1st.png) ![Screen Shot2](/ScreenShots/2nd.png) ![Screen Shot3](/ScreenShots/3rd.png) ![Screen Shot4](/ScreenShots/4th.png)
 
