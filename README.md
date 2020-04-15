@@ -30,6 +30,6 @@ https://flutter.dev/docs/get-started/install
 
 # Screen Shots -
 
-![Screen Shot1](/ScreenShots/1st.png =300x) ![Screen Shot2](/ScreenShots/2nd.png|height=300) 
+![Screen Shot1](/ScreenShots/1st.png = 300x) ![Screen Shot2](/ScreenShots/2nd.png|height=300) 
 ![Screen Shot3](/ScreenShots/3rd.png|height=300) ![Screen Shot4](/ScreenShots/4th.png|height=300)
 
