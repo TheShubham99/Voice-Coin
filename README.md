@@ -29,7 +29,5 @@ https://www.androidcentral.com/unknown-sources
 https://flutter.dev/docs/get-started/install
 
 # Screen Shots -
-
-![Screen Shot1](/ScreenShots/1st.png "Title" {width=40px height=400px}) ![Screen Shot2](/ScreenShots/2nd.png|height=300) 
-![Screen Shot3](/ScreenShots/3rd.png|height=300) ![Screen Shot4](/ScreenShots/4th.png|height=300)
+<img src="/ScreenShots/1st.png" width="48"> <img src="/ScreenShots/2nd.png" width="48"> <img src="ScreenShots/3rd.png" width="48"> <img src="ScreenShots/4th.png" width="48">
 
