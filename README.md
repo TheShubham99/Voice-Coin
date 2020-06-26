@@ -1,5 +1,5 @@
 # Voice Coin
- It is a Voice Based Payment Solution
+ A Voice Based Payment Solution
  
 # Developed by Prathamesh Sahasrabhojane.
 Linked in:https://www.linkedin.com/in/prathamesh-sahasrabhojane-4b3b12148/
